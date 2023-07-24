@@ -1,0 +1,59 @@
+<meta>
+<min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+	<script src="ambience.lua" type="client" />
+	<file src="sounds/thunder.mp3" />
+	<file src="sounds/storm.mp3" />
+	<file src="sounds/lightning.wav" />
+	<file src="sounds/thunder1.wav"/>
+	<file src="sounds/thunder2.wav"/>
+	<script src="c_main2.lua" type="client" />
+	<script src="c_switch.lua" type="client" />
+	<file src="fx/img_refract_MRT_DB.fx" type="client" />
+	<file src="fx/img_refract_NoMRT_DB.fx" type="client" />
+	<file src="fx/img_refract_MRT_NoDB.fx" type="client" />
+	<file src="fx/img_refract_NoMRT_NoDB.fx" type="client" />
+	<file src="fx/tex_water_MRT_DB.fx" type="client" />
+	<file src="fx/tex_water_NoMRT_DB.fx" type="client" />
+	<file src="fx/tex_water_MRT_NoDB.fx" type="client" />
+	<file src="fx/tex_water_NoMRT_NoDB.fx" type="client" />
+	<file src="images/cube_env256.dds" type="client" />
+	<file src="images/waterClear_NRM.dds" type="client" />
+	<script src="c_main.lua" type="client" />
+	<script src="c_helper_functions.lua" type="client" />
+	<file src="fx/shader_dynamicSky2tropos.fx" type="client" />
+	<file src="fx/shader_dynamicSky2stratos.fx" type="client" />
+	<file src="fx/shader_dynamicSky2up.fx" type="client" />
+	<file src="fx/shader_dynamicSky2bottom.fx" type="client" />
+	<file src="fx/shader_dynamicSky2down.fx" type="client" />
+	<file src="fx/shader_clear.fx" type="client" />
+	<file src="tex/skybox.dds" type="client" />
+	<file src="tex/clouds.dds" type="client" />
+	<file src="tex/clouds_normal.jpg" type="client" />
+	<file src="tex/moon/0.png" type="client" />
+	<file src="tex/moon/1.png" type="client" />
+	<file src="tex/moon/10.png" type="client" />
+	<file src="tex/moon/11.png" type="client" />
+	<file src="tex/moon/12.png" type="client" />
+	<file src="tex/moon/13.png" type="client" />
+	<file src="tex/moon/14.png" type="client" />
+	<file src="tex/moon/15.png" type="client" />
+	<file src="tex/moon/16.png" type="client" />
+	<file src="tex/moon/17.png" type="client" />
+	<file src="tex/moon/18.png" type="client" />
+	<file src="tex/moon/19.png" type="client" />
+	<file src="tex/moon/2.png" type="client" />
+	<file src="tex/moon/20.png" type="client" />
+	<file src="tex/moon/3.png" type="client" />
+	<file src="tex/moon/4.png" type="client" />
+	<file src="tex/moon/5.png" type="client" />
+	<file src="tex/moon/6.png" type="client" />
+	<file src="tex/moon/7.png" type="client" />
+	<file src="tex/moon/8.png" type="client" />
+	<file src="tex/moon/9.png" type="client" />
+	<file src="dff/skybox_model.dff" type="client" />
+	<file src="tex/skybox_model.txd" type="client" />
+	<export function="getDynamicSunVector" type="client" />
+	<export function="getDynamicMoonVector" type="client" />
+	<export function="getMoonPhaseValue" type="client" />
+	<export function="isDynamicSkyEnabled" type="client" />
+</meta>

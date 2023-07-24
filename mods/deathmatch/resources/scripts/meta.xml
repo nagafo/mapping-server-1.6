@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="c.lua" type="client"></script>
+    <oop>true</oop>
+    
+    <min_mta_version client="1.5.5-9.14060"></min_mta_version>
+</meta>

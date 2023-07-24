@@ -1,0 +1,8 @@
+* Added ACL rights check - you will be notified of missing rights
+* Minor changes in the Automatic Updater
+* Updated ActionScript Library:
+  * "X-Y-Z Rotation" action has been modified
+  * Minor bugfixes
+* Updated ActionScript Manager:
+  * Property edit bug should be fixed
+  

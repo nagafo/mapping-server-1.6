@@ -1,0 +1,81 @@
+<meta>
+    
+    <oop>true</oop>
+    
+    <info name="Multi Selection Tool Ultimate" author="Krzysztof" type="script" version="1.2" />
+    
+    <script src="client/main.lua" type="client" />
+    <script src="client/gui.lua" type="client" />
+    <script src="client/krzyLib.lua" type="client" />
+    <script src="client/c_utility.lua" type="client" />
+    <script src="client/selection.lua" type="client" />
+    <script src="client/editor_settings.lua" type="client" />
+    <script src="client/attachment.lua" type="client" />
+    <script src="client/getObjectNameFromModel.lua" type="client"/>
+    <script src="client/quaternion_lib.lua" type="client" />
+    <script src="client/edf.lua" type="client" />
+    <script src="client/element_library.lua" type="client" />
+    <script src="client/element_properties.lua" type="client" />
+    <script src="client/cover.lua" type="client" />
+    <script src="client/settings.lua" type="client" />
+    <script src="client/help.lua" type="client" />
+    <script src="client/undo_redo.lua" type="client" />
+    <script src="client/element_preview.lua" type="client" />
+    <script src="client/welcome_message.lua" type="client" />
+    <script src="client/duplicate.lua" type="client" />
+    <script src="client/mirror.lua" type="client" />
+    <script src="server/server_main.lua" type="server" />
+    <script src="server/saveLib.lua" type="server" />
+    <script src="client/edf.lua" type="server" />
+
+    <script src="colorpicker/colorpicker.lua" type="client" />
+    <file src="colorpicker/palette.png" />
+    <file src="colorpicker/alpha.png" />
+    <config src="cover.xml" type="client"/>
+
+    <file src="data/shaders/color.fx" />
+    <file src="data/shaders/mta-helper.fx" />
+    <file src="data/shaders/mirror.fx" />
+    <file src="data/shaders/mirror_orig.fx" />
+
+    <file src="data/images/gui/selection1.png" />
+    <file src="data/images/gui/selection2.png" />
+    <file src="data/images/gui/selection3.png" />
+    <file src="data/images/gui/selection4.png" />
+    <file src="data/images/gui/clone.png" />
+    <file src="data/images/gui/destroy.png" />
+    <file src="data/images/gui/undo.png" />
+    <file src="data/images/gui/redo.png" />
+    <file src="data/images/gui/duplicate.png" />
+    <file src="data/images/gui/mirror.png" />
+    <file src="data/images/discord.png" />
+    <file src="data/images/tc.png" />
+    <file src="data/images/yt.png" />
+    <file src="data/font/font.otf" />
+    <file src="data/images/logo.png" />
+
+    <file src="data/images/gui/settings.png" />
+    <file src="data/images/gui/library.png" />
+    <file src="data/images/gui/help.png" />
+    <file src="data/images/gui/cover.png" />
+    <file src="data/images/gui/search.png" />
+    <file src="data/images/gui/delete.png" />
+    <file src="data/images/gui/save.png" />
+    <file src="data/images/gui/open.png" />
+    <file src="data/images/gui/preview.png" />
+    <file src="data/images/gui/arrow.png" />    
+    <file src="data/images/material.png" />
+    <file src="data/images/circle.png" />
+    <file src="data/images/sound_on.png" />
+    <file src="data/images/sound_off.png" />
+    <file src="data/images/gui/measure.png" />
+    <file src="data/images/gui/reset.png" />
+    
+    <file src="data/sounds/click.mp3" />
+
+    <aclrequest>
+        <right name="general.ModifyOtherObjects" access="true" />
+        <right name="function.restartResource" access="true" />
+    </aclrequest>
+
+</meta>

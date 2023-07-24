@@ -1,0 +1,8 @@
+<settings>
+    <setting name="admin.ip2cUpdateTime" value="[1689198899]"></setting>
+    <setting name="*freeroam.spawnmapondeath" value='[&quot;false&quot;]'></setting>
+    <setting name="*freeroam.welcometextonstart" value='[&quot;true&quot;]'></setting>
+    <setting name="*freeroam.spawnmaponstart" value='[&quot;true&quot;]'></setting>
+    <setting name="*race.blur" value='[&quot;0&quot;]'></setting>
+    <setting name="*race.clouds" value='[&quot;false&quot;]'></setting>
+</settings>

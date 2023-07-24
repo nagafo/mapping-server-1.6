@@ -1,0 +1,17 @@
+<meta>
+	<info author="NeXTreme" name="NeXTreme's Editor Tools" description="Visit http://www.tg-mta.net/" version="1.11" type="misc"/>
+	
+	<script src="server.lua" type="server" />
+	<script src="updater.lua" type="server" />
+	
+	<script src="client.lua" type="client" />
+	<script src="actionscript.lua" type="client" />
+	<script src="colorpicker/colorpicker.lua" type="client" />
+	
+	<script src="common.lua" type="client" />
+	<script src="common.lua" type="server" />
+
+	<file src="colorpicker/palette.png" />
+	<file src="colorpicker/alpha.png" />
+	<file src="img/logo.png" />
+</meta>

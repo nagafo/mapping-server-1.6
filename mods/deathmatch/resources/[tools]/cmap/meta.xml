@@ -1,0 +1,8 @@
+<meta>
+	<info name="Ceeser's Minimap" version="1.5.0" author="Ceeser" description="A minimap for mapping servers"></info>
+	<script src="cmap_c.lua" type="client"></script>
+	<script src="waypoints_c.lua" type="client"></script>
+	<file src="player.png"></file>
+	<file src="playerFar.png"></file>
+	<file src="circle.fx"></file>
+</meta>

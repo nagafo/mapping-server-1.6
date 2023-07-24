@@ -1,0 +1,13 @@
+<meta>
+    <info author="Dr.CrazY" description="Vehicle Movement Recording Script" version="2.0" type="misc" />
+    <min_mta_version client="1.5.5-9.14060"></min_mta_version>
+    <script src="utils/cOffset.lua" type="client" />
+    <script src="utils/cOutput.lua" type="client" />
+    <script src="utils/cSettingsReader.lua" type="client" />
+    <script src="cDrawVehicle.lua" type="client" />
+    <script src="cSettingsUI.lua" type="client" />
+    <script src="cPanelUI.lua" type="client" />
+    <script src="cMain.lua" type="client" />
+    <script src="sMain.lua" type="server" />
+    <script src="sDrawVehicle.lua" type="server" />
+</meta>

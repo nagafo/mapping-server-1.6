@@ -1,0 +1,8 @@
+<meta>
+    <script src="c.lua" type="client" />
+    <file src="textures/skybox.dds" type="client" />
+    <file src="models/skybox_model.dff" type="client" />
+    <file src="models/skybox_model.txd" type="client" />
+    
+    <file src="shader.fx" />
+</meta>

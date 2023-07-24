@@ -1,0 +1,17 @@
+<cover>
+    
+    <id3458>
+        <front>
+            <id3437 posX="-10" posY="-2.25" posZ="-0.7" rotX="0" rotY="270" rotZ="0" scale="1.7" collisions="false" doublesided="false"></id3437>
+        </front>
+        <back>
+            <id3437 posX="-10" posY="2.25" posZ="-0.7" rotX="0" rotY="270" rotZ="0" scale="1.7" collisions="false" doublesided="false"></id3437>
+        </back>
+        <left>
+            <id3437 posX="10" posY="-2.25" posZ="-0.7" rotX="0" rotY="270" rotZ="0" scale="1.7" collisions="false" doublesided="false"></id3437>
+        </left>
+        <right>
+            <id3437 posX="10" posY="2.25" posZ="-0.7" rotX="0" rotY="270" rotZ="0" scale="1.7" collisions="false" doublesided="false"></id3437>
+        </right>
+    </id3458>
+</cover>

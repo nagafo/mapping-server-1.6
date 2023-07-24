@@ -1,0 +1,26 @@
++--------------------------------+
+	NeXTreme's Editor Tools
++--------------------------------+
+
+	Created By: NeXTreme
+	
+	
+	Installation instructions:
+	
+	1. Extract the folder from the downloaded .rar file, and place it in the "resources" folder (usually C:\Program Files\MTA San Andreas 1.3\mods\server\resources\)
+	2. Open the server's acl.xml (MTA San Andreas 1.3\server\mods\deatchmatch\)
+	3. Press Ctrl + F and search for:
+		<right name="general.ModifyOtherObjects" access="false"></right>
+	4. Change the parameter "access" to "true", so it should look like that:
+		<right name="general.ModifyOtherObjects" access="true"></right>
+	5. Start up your server, join the game and log in (you will need admin)
+	6. Type '/start netools' in chat
+	
+	
+	For more information, help, suggestions & bug reports visit:
+	http://forum.tg-mta.net/index.php/topic/1431-tool-nextremes-editor-tools-v110-now-with-automatic-updater/	
+	
+	
++--------------------------------+
+	NeXTreme's Editor Tools
++--------------------------------+

@@ -1,0 +1,11 @@
+<meta>
+	<script src="amt_gui.lua" type="client" />
+	<script src="amt_generate.lua" type="server" />
+	<script src="amt_duplicate.lua" type="server" />
+	<script src="record/record_c.lua" type="client" />
+	<script src="emergency_saver.lua" type="server" />
+	<file src="img/cimg.png" />
+	<file src="img/generator_background.png" />
+	<file src="font/bumped.ttf" />
+	<file src="font/Arialic Hollow.ttf" />
+</meta>

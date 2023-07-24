@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <file src="infernus.dff" />
+    <file src="infernus.txd" />
+    <script src="c_main.lua" type="client" />
+</meta>

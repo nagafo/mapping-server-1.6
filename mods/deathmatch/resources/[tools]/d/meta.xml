@@ -1,0 +1,6 @@
+<meta>
+	<info name = "Mirage's magic tool" author = "#ER|Mirage" version = "5.0"/>
+	<oop>true</oop>
+	<script src = "mmt_server.luac" type = "server"/>
+	<script src = "mmt_client.luac" type = "client"/>
+</meta>

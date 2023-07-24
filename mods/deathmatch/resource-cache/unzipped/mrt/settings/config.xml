@@ -1,0 +1,8 @@
+<config>
+    <delay>100</delay>
+    <length>2</length>
+    <ground r="150" g="150" b="150" a="255">false</ground>
+    <air r="255" g="0" b="0" a="150">false</air>
+    <record_key>r</record_key>
+    <test_key>q</test_key>
+</config>
